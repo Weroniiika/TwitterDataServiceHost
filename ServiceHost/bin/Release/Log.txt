@@ -1,0 +1,1189 @@
+2015-03-18 09:07:33.2176|Info|Service Host|service host opened 
+2015-03-18 09:07:50.1153|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 09:08:03.4494|Error|TwitterStreamData|Exception when creating request; Method name: .ctor The remote name could not be resolved: 'stream.twitter.com'
+2015-03-18 09:08:03.5175|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData The remote name could not be resolved: 'stream.twitter.com'
+2015-03-18 09:09:48.5241|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 09:09:49.3176|Info|TwitterStreamData|Request with code = 6B00 created successfully in time: 00:00:00.7527036; 
+2015-03-18 09:09:49.7019|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3126207; 
+2015-03-18 09:09:51.8814|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.6288068; 
+2015-03-18 09:09:54.3725|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2376614; 
+2015-03-18 09:09:55.0171|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0606113; 
+2015-03-18 09:09:56.9973|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0373542; 
+2015-03-18 09:09:58.3253|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0413586; 
+2015-03-18 09:10:01.9324|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0166224; 
+2015-03-18 09:10:14.5362|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0349138; 
+2015-03-18 09:10:14.6130|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0154490; 
+2015-03-18 09:10:14.8541|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0233044; 
+2015-03-18 09:10:14.9338|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0144101; 
+2015-03-18 09:10:16.1651|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0212335; 
+2015-03-18 09:10:17.6116|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0208703; 
+2015-03-18 09:10:18.6947|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:00:28.9255846; number of tweets read: 30; 
+2015-03-18 09:10:18.8769|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0595758; 
+2015-03-18 09:10:18.9119|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 30 
+2015-03-18 09:13:05.0421|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 09:13:05.5622|Info|TwitterStreamData|Request with code = LGMR created successfully in time: 00:00:00.4723505; 
+2015-03-18 09:13:05.9202|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3085485; 
+2015-03-18 09:13:05.9893|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0256712; 
+2015-03-18 09:13:10.8187|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0536516; 
+2015-03-18 09:13:12.6149|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0462855; 
+2015-03-18 09:13:15.4460|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0143394; 
+2015-03-18 09:13:16.2858|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0175176; 
+2015-03-18 09:13:18.0492|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0141376; 
+2015-03-18 09:13:21.3365|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0130616; 
+2015-03-18 09:13:22.1077|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0231162; 
+2015-03-18 09:13:29.6342|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0314659; 
+2015-03-18 09:13:35.6432|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0207648; 
+2015-03-18 09:13:43.9789|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0124789; 
+2015-03-18 09:13:44.1390|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0177086; 
+2015-03-18 09:13:44.3663|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0134653; 
+2015-03-18 09:13:47.0167|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0263999; 
+2015-03-18 09:13:49.5982|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0183900; 
+2015-03-18 09:13:51.1160|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0132167; 
+2015-03-18 09:13:51.9872|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0272358; 
+2015-03-18 09:13:52.2634|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0219496; 
+2015-03-18 09:13:54.4536|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0302765; 
+2015-03-18 09:13:54.7401|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0212078; 
+2015-03-18 09:13:54.9158|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0197390; 
+2015-03-18 09:13:55.6115|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0136398; 
+2015-03-18 09:13:58.2018|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0407775; 
+2015-03-18 09:13:59.7088|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0314095; 
+2015-03-18 09:14:00.2171|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0230449; 
+2015-03-18 09:14:02.5620|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0131392; 
+2015-03-18 09:14:04.1650|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0294703; 
+2015-03-18 09:14:08.0908|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0172861; 
+2015-03-18 09:14:08.6124|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0306169; 
+2015-03-18 09:14:10.5414|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0222267; 
+2015-03-18 09:14:11.5268|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0293334; 
+2015-03-18 09:14:13.0656|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0496159; 
+2015-03-18 09:14:13.2517|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0565601; 
+2015-03-18 09:14:16.5453|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0508213; 
+2015-03-18 09:14:17.5418|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0454325; 
+2015-03-18 09:14:18.5231|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0443326; 
+2015-03-18 09:14:19.9407|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1299920; 
+2015-03-18 09:14:20.1578|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0309123; 
+2015-03-18 09:14:20.5701|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0306916; 
+2015-03-18 09:14:21.4093|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0350187; 
+2015-03-18 09:14:35.1717|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0385390; 
+2015-03-18 09:14:35.7697|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0188039; 
+2015-03-18 09:14:40.0342|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0366295; 
+2015-03-18 09:14:41.2060|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0272700; 
+2015-03-18 09:14:41.8774|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0288790; 
+2015-03-18 09:14:42.4196|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0231196; 
+2015-03-18 09:14:47.1356|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0305109; 
+2015-03-18 09:14:47.6757|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:01:41.7137363; number of tweets read: 80; 
+2015-03-18 09:14:47.7963|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0205321; 
+2015-03-18 09:14:47.8331|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 80 
+2015-03-18 09:16:16.6354|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 09:16:17.2918|Info|TwitterStreamData|Request with code = 5PJ5 created successfully in time: 00:00:00.6166859; 
+2015-03-18 09:16:17.6782|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3415180; 
+2015-03-18 09:16:17.7273|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0148993; 
+2015-03-18 09:16:18.2918|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0293597; 
+2015-03-18 09:16:28.0872|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2613775; 
+2015-03-18 09:16:28.2934|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0729477; 
+2015-03-18 09:16:29.4780|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0590330; 
+2015-03-18 09:16:30.0061|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0233061; 
+2015-03-18 09:16:30.4097|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0238249; 
+2015-03-18 09:16:31.5817|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0297166; 
+2015-03-18 09:16:32.2938|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0197664; 
+2015-03-18 09:16:34.4194|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0327329; 
+2015-03-18 09:16:35.5596|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0358147; 
+2015-03-18 09:16:38.1188|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0345363; 
+2015-03-18 09:16:38.3335|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0203947; 
+2015-03-18 09:16:40.7583|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0283162; 
+2015-03-18 09:16:45.5542|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0613320; 
+2015-03-18 09:16:46.8572|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0313793; 
+2015-03-18 09:16:48.2481|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0532582; 
+2015-03-18 09:16:50.2529|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0450784; 
+2015-03-18 09:16:51.8649|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0445926; 
+2015-03-18 09:16:53.9379|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0361693; 
+2015-03-18 09:16:55.3745|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0276936; 
+2015-03-18 09:16:56.1188|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:00:38.4077308; number of tweets read: 100; 
+2015-03-18 09:16:56.2649|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0227085; 
+2015-03-18 09:16:56.3009|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-18 09:21:49.5653|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 09:21:50.1145|Info|TwitterStreamData|Request with code = DX7E created successfully in time: 00:00:00.5037754; 
+2015-03-18 09:21:50.4941|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3307838; 
+2015-03-18 09:21:50.5458|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0174207; 
+2015-03-18 09:21:56.2005|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0337712; 
+2015-03-18 09:22:07.4272|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0340141; 
+2015-03-18 09:22:09.4385|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0243079; 
+2015-03-18 09:22:18.2747|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0133673; 
+2015-03-18 09:22:18.3718|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0154256; 
+2015-03-18 09:22:18.4781|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0125548; 
+2015-03-18 09:22:19.2803|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0190502; 
+2015-03-18 09:22:19.6498|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0121670; 
+2015-03-18 09:22:21.6251|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0181665; 
+2015-03-18 09:22:25.5494|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0115022; 
+2015-03-18 09:22:29.4893|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0145624; 
+2015-03-18 09:22:33.5520|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0137065; 
+2015-03-18 09:22:33.8838|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0143873; 
+2015-03-18 09:22:37.1948|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0109349; 
+2015-03-18 09:22:47.9174|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0305251; 
+2015-03-18 09:22:50.8124|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0174087; 
+2015-03-18 09:22:50.9011|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0124715; 
+2015-03-18 09:22:51.0293|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0154769; 
+2015-03-18 09:22:51.1786|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0200555; 
+2015-03-18 09:22:51.2637|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0164673; 
+2015-03-18 09:22:51.6328|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0183632; 
+2015-03-18 09:22:52.2298|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0146667; 
+2015-03-18 09:22:52.7829|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0129596; 
+2015-03-18 09:22:59.1123|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0758471; 
+2015-03-18 09:22:59.3634|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0924245; 
+2015-03-18 09:23:00.0937|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0358438; 
+2015-03-18 09:23:00.7681|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0427127; 
+2015-03-18 09:23:01.6811|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0551598; 
+2015-03-18 09:23:02.1534|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0462524; 
+2015-03-18 09:23:03.7163|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0349606; 
+2015-03-18 09:23:04.2996|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0269735; 
+2015-03-18 09:23:04.5473|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0172131; 
+2015-03-18 09:23:06.1871|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0161828; 
+2015-03-18 09:23:07.4212|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0131215; 
+2015-03-18 09:23:13.7183|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0271251; 
+2015-03-18 09:23:15.3814|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0224537; 
+2015-03-18 09:23:15.4945|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0151331; 
+2015-03-18 09:23:17.4678|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0253467; 
+2015-03-18 09:23:20.0058|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0159416; 
+2015-03-18 09:23:28.9630|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0162028; 
+2015-03-18 09:23:31.3573|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0156674; 
+2015-03-18 09:23:33.4196|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0174646; 
+2015-03-18 09:23:33.7639|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0145475; 
+2015-03-18 09:23:34.1479|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0251272; 
+2015-03-18 09:23:34.8380|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0230113; 
+2015-03-18 09:23:36.1063|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0189949; 
+2015-03-18 09:23:38.5461|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0254585; 
+2015-03-18 09:23:38.8920|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0185810; 
+2015-03-18 09:23:38.9924|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0158401; 
+2015-03-18 09:23:44.0124|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0148389; 
+2015-03-18 09:23:44.1468|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0167079; 
+2015-03-18 09:23:45.8208|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0182908; 
+2015-03-18 09:23:46.9762|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0214313; 
+2015-03-18 09:23:47.9597|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0149221; 
+2015-03-18 09:23:48.0669|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0195623; 
+2015-03-18 09:23:48.1803|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0225654; 
+2015-03-18 09:23:55.3203|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0194613; 
+2015-03-18 09:23:56.2935|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0180650; 
+2015-03-18 09:23:57.9087|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0240353; 
+2015-03-18 09:24:01.7453|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0199762; 
+2015-03-18 09:24:04.0460|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0209735; 
+2015-03-18 09:24:05.0333|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0460198; 
+2015-03-18 09:24:05.6301|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0380806; 
+2015-03-18 09:24:07.7962|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0350888; 
+2015-03-18 09:24:08.6853|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0367874; 
+2015-03-18 09:24:12.4774|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0402484; 
+2015-03-18 09:24:13.7776|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0251495; 
+2015-03-18 09:24:24.2309|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0202921; 
+2015-03-18 09:24:31.5284|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0210322; 
+2015-03-18 09:24:38.0094|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0202299; 
+2015-03-18 09:24:38.1665|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0253114; 
+2015-03-18 09:24:38.2886|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0255691; 
+2015-03-18 09:24:42.0720|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0193028; 
+2015-03-18 09:24:42.2031|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0294173; 
+2015-03-18 09:24:47.9258|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0218652; 
+2015-03-18 09:24:51.4776|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0193707; 
+2015-03-18 09:24:51.6027|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0231282; 
+2015-03-18 09:24:52.4711|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0514627; 
+2015-03-18 09:24:57.0999|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0171698; 
+2015-03-18 09:25:02.6978|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0297440; 
+2015-03-18 09:25:06.6886|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0203708; 
+2015-03-18 09:25:09.4199|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0193142; 
+2015-03-18 09:25:10.5024|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0404389; 
+2015-03-18 09:25:12.1910|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0687449; 
+2015-03-18 09:25:14.8820|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0201906; 
+2015-03-18 09:25:15.6888|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0318308; 
+2015-03-18 09:25:17.6827|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0296066; 
+2015-03-18 09:25:27.5129|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0249613; 
+2015-03-18 09:25:35.8149|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0279108; 
+2015-03-18 09:25:37.2769|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0253576; 
+2015-03-18 09:25:38.3286|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0372202; 
+2015-03-18 09:25:40.5861|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0243124; 
+2015-03-18 09:25:42.3613|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0293756; 
+2015-03-18 09:25:51.9063|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0180678; 
+2015-03-18 09:25:53.2025|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0289509; 
+2015-03-18 09:25:54.6442|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0219011; 
+2015-03-18 09:25:57.5648|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0315161; 
+2015-03-18 09:26:00.0710|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0223111; 
+2015-03-18 09:26:02.6871|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0240992; 
+2015-03-18 09:26:07.2629|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0184618; 
+2015-03-18 09:26:08.1363|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:04:17.6087325; number of tweets read: 100; 
+2015-03-18 09:26:08.2578|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0215482; 
+2015-03-18 09:26:08.2919|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-18 10:18:56.7427|Info|Service Host|service host opened 
+2015-03-18 10:20:11.8108|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 10:20:28.1293|Info|TwitterStreamData|Request with code = K2TF created successfully in time: 00:00:00.8454759; 
+2015-03-18 10:20:53.6889|Error|TwitterStreamData|Exception while getting response from Twitter and establishing stream; The remote server returned an error: (401) Unauthorized.
+2015-03-18 10:20:53.6889|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Timeout in InitStreamAndSaveData method waiting for task runing TwitterStreamData.QueueTweets method to signal that stream was established and reader has started.
+2015-03-18 10:29:27.0004|Info|Service Host|service host opened 
+2015-03-18 10:30:08.0162|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 10:30:24.1991|Info|TwitterStreamData|Request with code = 3NEW created successfully in time: 00:00:00.8742586; 
+2015-03-18 10:30:34.4110|Error|TwitterStreamData|Exception while getting response from Twitter and establishing stream; The remote server returned an error: (401) Unauthorized.
+2015-03-18 10:30:37.3005|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Timeout in InitStreamAndSaveData method waiting for task runing TwitterStreamData.QueueTweets method to signal that stream was established and reader has started.
+2015-03-18 10:48:05.6178|Info|Service Host|service host opened 
+2015-03-18 10:48:42.3931|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 10:48:56.8147|Info|TwitterStreamData|Request with code = XH65 created successfully in time: 00:00:00.8120862; 
+2015-03-18 10:49:07.7346|Error|TwitterStreamData|Exception while getting response from Twitter and establishing stream; The remote server returned an error: (401) Unauthorized.
+2015-03-18 10:49:13.1073|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Timeout in InitStreamAndSaveData method waiting for task runing TwitterStreamData.QueueTweets method to signal that stream was established and reader has started.
+2015-03-18 11:04:36.3573|Info|Service Host|service host opened 
+2015-03-18 11:06:39.5355|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 11:06:57.2507|Info|TwitterStreamData|Request with code = KCRF created successfully in time: 00:00:01.7018583; 
+2015-03-18 11:06:57.5359|Error|TwitterStreamData|Exception while getting response from Twitter and establishing stream; The remote server returned an error: (401) Unauthorized.
+2015-03-18 11:06:57.6540|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Queueing tweets failed.
+2015-03-18 11:08:20.7339|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 11:08:21.4120|Error|TwitterStreamData|Exception when creating request; Method name: .ctor The request was aborted: Could not create SSL/TLS secure channel.
+2015-03-18 11:08:21.4877|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData The request was aborted: Could not create SSL/TLS secure channel.
+2015-03-18 11:45:47.1712|Info|Service Host|service host opened 
+2015-03-18 11:46:59.9312|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 11:47:25.7324|Info|TwitterStreamData|Request with code = WQBG created successfully in time: 00:00:00.8966981; 
+2015-03-18 11:47:46.2507|Error|TwitterStreamData|Exception while getting response from Twitter and establishing stream; The remote server returned an error: (401) Unauthorized.
+2015-03-18 11:47:46.5049|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Timeout in InitStreamAndSaveData method waiting for task runing TwitterStreamData.QueueTweets method to signal that stream was established and reader has started.
+2015-03-18 11:48:59.7139|Info|Service Host|service host opened 
+2015-03-18 11:49:30.1931|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-18 11:49:47.0054|Info|TwitterStreamData|Request with code = Y165 created successfully in time: 00:00:00.8645000; 
+2015-03-18 11:49:47.3640|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2880841; 
+2015-03-18 11:49:49.0176|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.3846852; 
+2015-03-18 11:49:51.6763|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2140690; 
+2015-03-18 11:49:55.4836|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0394308; 
+2015-03-18 11:49:55.6617|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0137692; 
+2015-03-18 11:50:01.0602|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0285118; 
+2015-03-18 11:50:01.3268|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0130930; 
+2015-03-18 11:50:03.0676|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0084061; 
+2015-03-18 11:50:07.1348|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0131962; 
+2015-03-18 11:50:07.3253|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0179270; 
+2015-03-18 11:50:10.4090|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0310417; 
+2015-03-18 11:50:10.4910|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0178415; 
+2015-03-18 11:50:13.4821|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0261216; 
+2015-03-18 11:50:15.1545|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0223299; 
+2015-03-18 11:50:15.3687|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0235706; 
+2015-03-18 11:50:15.4958|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0142573; 
+2015-03-18 11:50:18.0041|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0188991; 
+2015-03-18 11:50:18.7325|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0205914; 
+2015-03-18 11:50:19.4412|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0293374; 
+2015-03-18 11:50:23.7754|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0317259; 
+2015-03-18 11:50:23.9571|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0104953; 
+2015-03-18 11:50:24.2980|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0151023; 
+2015-03-18 11:50:24.3869|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0160711; 
+2015-03-18 11:50:24.7188|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0165158; 
+2015-03-18 11:50:25.9177|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0147619; 
+2015-03-18 11:50:31.8473|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0406664; 
+2015-03-18 11:50:40.3463|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0678537; 
+2015-03-18 11:50:40.4784|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0179652; 
+2015-03-18 11:50:40.5964|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0254659; 
+2015-03-18 11:50:40.7236|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0200720; 
+2015-03-18 11:50:40.8198|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0152551; 
+2015-03-18 11:50:43.5416|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0859267; 
+2015-03-18 11:50:44.1080|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0310166; 
+2015-03-18 11:50:45.1527|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0337005; 
+2015-03-18 11:50:46.2985|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0391286; 
+2015-03-18 11:50:49.1405|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0340506; 
+2015-03-18 11:50:50.6419|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0237725; 
+2015-03-18 11:50:53.1350|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0208663; 
+2015-03-18 11:50:54.5570|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0335807; 
+2015-03-18 11:50:56.9465|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0479504; 
+2015-03-18 11:50:58.5074|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0215237; 
+2015-03-18 11:50:59.5322|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0466886; 
+2015-03-18 11:51:03.9394|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1089871; 
+2015-03-18 11:51:04.1796|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0527416; 
+2015-03-18 11:51:04.4188|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0398653; 
+2015-03-18 11:51:04.5919|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0244327; 
+2015-03-18 11:51:05.7839|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0340557; 
+2015-03-18 11:51:06.3201|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0268805; 
+2015-03-18 11:51:14.0637|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0254973; 
+2015-03-18 11:51:14.2458|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0230461; 
+2015-03-18 11:51:14.7341|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0508087; 
+2015-03-18 11:51:14.9233|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0330385; 
+2015-03-18 11:51:15.2025|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0442579; 
+2015-03-18 11:51:26.6283|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0336469; 
+2015-03-18 11:51:27.1185|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0189277; 
+2015-03-18 11:51:27.5901|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:01:40.1715581; number of tweets read: 100; 
+2015-03-18 11:51:27.7594|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0416174; 
+2015-03-18 11:51:27.7902|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-20 13:50:04.5642|Info|Service Host|service host opened 
+2015-03-20 13:51:58.0623|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 13:52:10.6632|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 13:52:18.0391|Info|TwitterStreamData|Request with code = GSX1 created successfully in time: 00:00:01.7891809; 
+2015-03-20 13:52:18.0391|Info|TwitterStreamData|Request with code = UI0G created successfully in time: 00:00:01.7891815; 
+2015-03-20 13:52:18.5150|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3305039; 
+2015-03-20 13:52:18.5150|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3304366; 
+2015-03-20 13:52:20.3734|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.4658316; 
+2015-03-20 13:52:20.3734|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.4659120; 
+2015-03-20 13:52:23.2385|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1479903; 
+2015-03-20 13:53:03.4980|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0304846; 
+2015-03-20 13:53:43.7734|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1434186; 
+2015-03-20 13:54:04.8804|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0284548; 
+2015-03-20 13:54:19.9270|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0186950; 
+2015-03-20 13:54:37.5761|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 13:54:54.5615|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0599521; 
+2015-03-20 13:54:57.1954|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0324717; 
+2015-03-20 13:55:02.8167|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0252584; 
+2015-03-20 13:55:08.8437|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0178272; 
+2015-03-20 13:55:45.7530|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 13:55:58.0417|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0480451; 
+2015-03-20 13:56:17.7261|Error|TwitterStreamData|Exception when creating request; Method name: .ctor The operation has timed out
+2015-03-20 13:56:17.8121|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData The operation has timed out
+2015-03-20 13:57:03.7717|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1177171; 
+2015-03-20 13:57:03.8079|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1539179; 
+2015-03-20 13:57:03.8629|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0093828; 
+2015-03-20 13:57:03.9279|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0111282; 
+2015-03-20 13:57:03.9673|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0524332; 
+2015-03-20 13:57:04.0322|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0136655; 
+2015-03-20 13:57:04.0973|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0636766; 
+2015-03-20 13:57:04.2166|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0172279; 
+2015-03-20 13:57:04.3479|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0192088; 
+2015-03-20 13:57:05.1384|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0398424; 
+2015-03-20 13:57:19.3785|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0153640; 
+2015-03-20 13:57:20.0240|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0096622; 
+2015-03-20 13:57:20.0780|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0082898; 
+2015-03-20 13:57:26.8806|Error|TwitterStreamData|Exception when creating request; Method name: .ctor The operation has timed out
+2015-03-20 13:57:26.9486|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData The operation has timed out
+2015-03-20 13:57:37.1324|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0204905; 
+2015-03-20 13:58:09.5641|Info|Service Host|service host opened 
+2015-03-20 13:58:28.7195|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 13:58:44.0935|Info|TwitterStreamData|Request with code = ISO9 created successfully in time: 00:00:01.6943873; 
+2015-03-20 13:58:44.5245|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3617201; 
+2015-03-20 13:58:46.2073|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.3862464; 
+2015-03-20 13:58:50.9369|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1799608; 
+2015-03-20 13:58:54.2631|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0910817; 
+2015-03-20 13:59:00.1491|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0254619; 
+2015-03-20 13:59:02.1981|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0206798; 
+2015-03-20 13:59:11.8955|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0200458; 
+2015-03-20 13:59:12.5269|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0145823; 
+2015-03-20 13:59:14.8271|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0128011; 
+2015-03-20 13:59:29.7380|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0345386; 
+2015-03-20 13:59:45.6702|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0158019; 
+2015-03-20 13:59:45.8493|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0347735; 
+2015-03-20 13:59:46.6253|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0159023; 
+2015-03-20 13:59:50.9148|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0363221; 
+2015-03-20 13:59:56.3789|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0316107; 
+2015-03-20 14:00:03.1321|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0153298; 
+2015-03-20 14:00:06.5751|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0247640; 
+2015-03-20 14:00:06.9535|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0188547; 
+2015-03-20 14:00:11.0557|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0169953; 
+2015-03-20 14:00:17.8008|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0157193; 
+2015-03-20 14:00:18.5268|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0183073; 
+2015-03-20 14:00:25.6085|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0339188; 
+2015-03-20 14:00:34.2400|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0382123; 
+2015-03-20 14:01:02.4261|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0702023; 
+2015-03-20 14:01:04.2634|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0171977; 
+2015-03-20 14:01:07.4729|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0196347; 
+2015-03-20 14:01:12.7688|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0208309; 
+2015-03-20 14:01:14.1854|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0127224; 
+2015-03-20 14:01:31.8336|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0257476; 
+2015-03-20 14:01:44.2867|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0457866; 
+2015-03-20 14:01:49.0068|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0218287; 
+2015-03-20 14:01:55.7329|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0403362; 
+2015-03-20 14:02:13.4258|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0521287; 
+2015-03-20 14:02:17.5552|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0157215; 
+2015-03-20 14:02:18.2945|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0321062; 
+2015-03-20 14:02:18.3916|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0215311; 
+2015-03-20 14:02:19.2447|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0481123; 
+2015-03-20 14:02:27.0901|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0294925; 
+2015-03-20 14:02:35.2596|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0244356; 
+2015-03-20 14:02:46.6322|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0239276; 
+2015-03-20 14:02:51.7315|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0205578; 
+2015-03-20 14:02:57.9899|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0359242; 
+2015-03-20 14:02:59.6138|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0220243; 
+2015-03-20 14:03:02.5245|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0204358; 
+2015-03-20 14:03:08.8952|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0648403; 
+2015-03-20 14:03:30.1021|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0564170; 
+2015-03-20 14:03:31.7029|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0199682; 
+2015-03-20 14:04:12.1987|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0442739; 
+2015-03-20 14:04:27.0956|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0465962; 
+2015-03-20 14:04:31.6293|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0181796; 
+2015-03-20 14:04:32.2862|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:05:47.7099327; number of tweets read: 100; 
+2015-03-20 14:04:32.4784|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0498274; 
+2015-03-20 14:04:32.5164|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-20 15:27:38.1481|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 15:27:39.4373|Info|TwitterStreamData|Request with code = FGDM created successfully in time: 00:00:01.2463977; 
+2015-03-20 15:27:39.9491|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.4729629; 
+2015-03-20 15:27:43.5710|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:03.5917702; 
+2015-03-20 15:27:45.6345|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0751714; 
+2015-03-20 15:27:47.2425|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0336509; 
+2015-03-20 15:27:52.6584|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0427241; 
+2015-03-20 15:27:54.3998|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0322944; 
+2015-03-20 15:28:01.3314|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0262208; 
+2015-03-20 15:28:02.3568|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0132926; 
+2015-03-20 15:28:08.2854|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0196934; 
+2015-03-20 15:28:10.2330|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0141142; 
+2015-03-20 15:28:34.3753|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0791056; 
+2015-03-20 15:28:38.4841|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0181733; 
+2015-03-20 15:28:41.1476|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0198525; 
+2015-03-20 15:28:52.1052|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1233955; 
+2015-03-20 15:28:56.8615|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0599550; 
+2015-03-20 15:28:59.9233|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0194984; 
+2015-03-20 15:29:07.4327|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0500281; 
+2015-03-20 15:29:53.3187|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0995734; 
+2015-03-20 15:30:03.2753|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0886345; 
+2015-03-20 15:30:03.8642|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0198456; 
+2015-03-20 15:30:13.7198|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0459867; 
+2015-03-20 15:30:14.7058|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0174572; 
+2015-03-20 15:30:29.1326|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0216161; 
+2015-03-20 15:30:31.3268|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:02:51.3486322; number of tweets read: 100; 
+2015-03-20 15:30:31.4629|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0328794; 
+2015-03-20 15:30:31.4999|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-20 15:33:47.4849|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 15:33:48.7600|Info|TwitterStreamData|Request with code = Q672 created successfully in time: 00:00:01.2369350; 
+2015-03-20 15:33:49.2236|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.4257234; 
+2015-03-20 15:33:49.2706|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0159450; 
+2015-03-20 15:33:57.7011|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0901249; 
+2015-03-20 15:34:15.5020|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0524166; 
+2015-03-20 15:34:21.6048|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0893586; 
+2015-03-20 15:34:25.5422|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0535490; 
+2015-03-20 15:34:36.9836|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0495857; 
+2015-03-20 15:34:40.4526|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0207745; 
+2015-03-20 15:34:47.3355|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0335032; 
+2015-03-20 15:34:49.4575|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0284223; 
+2015-03-20 15:34:53.6853|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0461429; 
+2015-03-20 15:35:06.0720|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0300787; 
+2015-03-20 15:35:15.0002|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0404982; 
+2015-03-20 15:35:15.0877|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0175461; 
+2015-03-20 15:35:22.2470|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0339394; 
+2015-03-20 15:35:22.9368|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0236140; 
+2015-03-20 15:35:25.5092|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0283961; 
+2015-03-20 15:35:31.1950|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0684558; 
+2015-03-20 15:35:33.0435|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0150350; 
+2015-03-20 15:35:47.9536|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0614357; 
+2015-03-20 15:35:50.4901|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0238038; 
+2015-03-20 15:35:50.8840|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0322283; 
+2015-03-20 15:35:52.0260|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0275129; 
+2015-03-20 15:35:57.8305|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0268497; 
+2015-03-20 15:35:58.6684|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0327905; 
+2015-03-20 15:36:11.0030|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0380851; 
+2015-03-20 15:36:27.1974|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0551250; 
+2015-03-20 15:36:31.0384|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:02:41.7840105; number of tweets read: 100; 
+2015-03-20 15:36:31.1824|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0396218; 
+2015-03-20 15:36:31.2115|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-20 15:50:08.3733|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 15:50:09.6476|Info|TwitterStreamData|Request with code = HKJ3 created successfully in time: 00:00:01.2359514; 
+2015-03-20 15:50:40.2714|Error|TwitterStreamData|Exception while getting response from Twitter and establishing stream; The remote server returned an error: (406) Not Acceptable.
+2015-03-20 15:50:40.2954|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Timeout in InitStreamAndSaveData method waiting for task runing TwitterStreamData.QueueTweets method to signal that stream was established and reader has started.
+2015-03-20 15:54:46.8486|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 15:54:47.7264|Info|TwitterStreamData|Request with code = 487R created successfully in time: 00:00:00.8387204; 
+2015-03-20 15:54:48.1564|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3920480; 
+2015-03-20 15:54:52.6255|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:04.4361446; 
+2015-03-20 15:57:04.9846|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 15:57:06.3862|Info|TwitterStreamData|Request with code = Y3FR created successfully in time: 00:00:01.3582306; 
+2015-03-20 15:57:07.2302|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.8000970; 
+2015-03-20 15:57:07.2912|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0242879; 
+2015-03-20 15:57:22.8802|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0685265; 
+2015-03-20 15:57:25.5078|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0382072; 
+2015-03-20 15:57:26.4181|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0164365; 
+2015-03-20 15:57:26.4992|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0161018; 
+2015-03-20 15:57:49.1632|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0477776; 
+2015-03-20 15:57:52.3088|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0126876; 
+2015-03-20 15:57:55.9294|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0270225; 
+2015-03-20 15:57:56.9031|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0087442; 
+2015-03-20 15:58:10.9489|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0342952; 
+2015-03-20 15:58:45.0116|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0663912; 
+2015-03-20 15:58:58.2919|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0195777; 
+2015-03-20 15:59:08.9180|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0343470; 
+2015-03-20 15:59:12.9535|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0181670; 
+2015-03-20 15:59:21.8785|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0488445; 
+2015-03-20 15:59:22.7906|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0160711; 
+2015-03-20 15:59:26.6783|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0172371; 
+2015-03-20 15:59:28.7311|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0154245; 
+2015-03-20 15:59:41.4393|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0337227; 
+2015-03-20 15:59:45.9303|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0222256; 
+2015-03-20 15:59:46.9507|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0270704; 
+2015-03-20 15:59:53.0075|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0516150; 
+2015-03-20 15:59:55.1625|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0411869; 
+2015-03-20 16:00:06.6801|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0165090; 
+2015-03-20 16:00:06.7533|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0334097; 
+2015-03-20 16:00:06.8535|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0163573; 
+2015-03-20 16:00:06.9299|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0142106; 
+2015-03-20 16:00:07.1036|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0251968; 
+2015-03-20 16:00:11.3075|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0226983; 
+2015-03-20 16:00:20.3451|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0489345; 
+2015-03-20 16:00:26.2263|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:03:18.9602025; number of tweets read: 100; 
+2015-03-20 16:00:26.4043|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0767040; 
+2015-03-20 16:00:26.4403|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-20 16:04:45.6760|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0668998; 
+2015-03-20 16:06:39.0923|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0489608; 
+2015-03-20 16:06:40.3566|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0117645; 
+2015-03-20 16:06:47.4771|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 16:06:48.4993|Info|TwitterStreamData|Request with code = U1F2 created successfully in time: 00:00:00.9691543; 
+2015-03-20 16:06:49.0754|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.5384270; 
+2015-03-20 16:06:49.1206|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0136307; 
+2015-03-20 16:06:51.3820|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0216679; 
+2015-03-20 16:06:52.9182|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0150504; 
+2015-03-20 16:06:57.0539|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0274125; 
+2015-03-20 16:07:03.0290|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1432395; 
+2015-03-20 16:07:16.2928|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0302931; 
+2015-03-20 16:07:18.3132|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0111253; 
+2015-03-20 16:07:20.1767|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0277518; 
+2015-03-20 16:07:28.4710|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0324717; 
+2015-03-20 16:08:01.4887|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1431369; 
+2015-03-20 16:08:01.6178|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0223174; 
+2015-03-20 16:08:01.7279|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0139557; 
+2015-03-20 16:08:01.9340|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0309539; 
+2015-03-20 16:08:38.5780|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1384249; 
+2015-03-20 16:08:42.4011|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0380133; 
+2015-03-20 16:08:51.1788|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0386120; 
+2015-03-20 16:09:01.2510|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0427555; 
+2015-03-20 16:09:04.7774|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0558731; 
+2015-03-20 16:09:05.0856|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0307811; 
+2015-03-20 16:09:14.8733|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0582604; 
+2015-03-20 16:09:27.9345|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0412896; 
+2015-03-20 16:09:32.5046|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0184727; 
+2015-03-20 16:09:43.7846|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0408522; 
+2015-03-20 16:09:49.9214|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0236014; 
+2015-03-20 16:09:53.5026|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0188792; 
+2015-03-20 16:10:03.8463|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0416243; 
+2015-03-20 16:10:11.6199|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0219975; 
+2015-03-20 16:10:16.2797|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:03:27.1737276; number of tweets read: 100; 
+2015-03-20 16:10:16.4138|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0294167; 
+2015-03-20 16:10:16.4498|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-20 16:11:53.1164|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0384119; 
+2015-03-20 16:14:10.2637|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0493924; 
+2015-03-20 16:14:37.5085|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0348203; 
+2015-03-20 16:15:30.3013|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0349246; 
+2015-03-20 16:15:42.5329|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0158179; 
+2015-03-20 16:15:53.8442|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0500812; 
+2015-03-20 16:17:50.9169|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0517638; 
+2015-03-20 16:17:54.6152|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0472303; 
+2015-03-20 16:18:48.8357|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0511868; 
+2015-03-20 16:19:44.8924|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0392751; 
+2015-03-20 16:20:00.8438|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0189339; 
+2015-03-20 16:20:02.7034|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0136991; 
+2015-03-20 16:20:06.7677|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0174897; 
+2015-03-20 16:21:46.6746|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0407553; 
+2015-03-20 16:21:48.2840|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0133969; 
+2015-03-20 16:22:56.2902|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0361996; 
+2015-03-20 16:25:09.9196|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0544408; 
+2015-03-20 16:29:10.5888|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0384244; 
+2015-03-20 16:29:11.5944|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0155414; 
+2015-03-20 16:30:15.8189|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0448566; 
+2015-03-20 16:35:16.3818|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0637501; 
+2015-03-20 16:35:19.0041|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0243660; 
+2015-03-20 16:35:50.9286|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0209820; 
+2015-03-20 16:37:23.6731|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0409845; 
+2015-03-20 16:37:57.0011|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0515785; 
+2015-03-20 16:40:07.2898|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0218282; 
+2015-03-20 16:40:45.2566|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0249853; 
+2015-03-20 16:41:52.2034|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0476231; 
+2015-03-20 16:47:36.0618|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0605411; 
+2015-03-20 16:47:37.0369|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0178318; 
+2015-03-20 16:48:23.9344|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0348328; 
+2015-03-20 16:49:55.8282|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0260498; 
+2015-03-20 17:07:09.1933|Error|TwitterStreamData|Exception while reading stream from Twitter. Number of tweets read: 100; Method name: ReadStream; Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2015-03-20 17:07:09.6916|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.1736176; 
+2015-03-20 17:07:09.7856|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-20 17:31:56.8590|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-20 17:31:57.6693|Info|TwitterStreamData|Request with code = FOQP created successfully in time: 00:00:00.6988712; 
+2015-03-20 17:31:58.0754|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3627293; 
+2015-03-20 17:31:58.4497|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.3157761; 
+2015-03-20 17:32:01.9831|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0787504; 
+2015-03-20 17:32:10.3696|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0332010; 
+2015-03-20 17:32:21.3534|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0221366; 
+2015-03-20 17:32:21.4324|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0116510; 
+2015-03-20 17:32:21.4995|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0113465; 
+2015-03-20 17:32:24.8351|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0113984; 
+2015-03-20 17:32:25.4735|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:00:27.3658003; number of tweets read: 12; 
+2015-03-20 17:32:25.5658|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0105643; 
+2015-03-20 17:32:25.6037|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 12 
+2015-03-21 11:34:28.9710|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-21 11:34:30.4805|Info|TwitterStreamData|Request with code = B6WM created successfully in time: 00:00:01.2483483; 
+2015-03-21 11:34:30.9007|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2729174; 
+2015-03-21 11:34:35.5244|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:04.3986222; 
+2015-03-21 11:34:41.9163|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.4424702; 
+2015-03-21 11:35:29.7144|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1558998; 
+2015-03-21 11:36:10.0773|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1161115; 
+2015-03-21 11:36:37.3712|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0539943; 
+2015-03-21 11:36:58.5028|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0480051; 
+2015-03-21 11:37:13.8994|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0587770; 
+2015-03-21 11:38:59.0765|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-21 11:39:01.0968|Info|TwitterStreamData|Request with code = Y4ZL created successfully in time: 00:00:01.9812564; 
+2015-03-21 11:39:01.4431|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3041946; 
+2015-03-21 11:39:01.4951|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0174389; 
+2015-03-21 11:39:23.8993|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0264415; 
+2015-03-21 11:39:43.3289|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0115102; 
+2015-03-21 11:39:59.3591|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0297069; 
+2015-03-21 11:41:42.8902|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.3040846; 
+2015-03-21 11:41:48.5408|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1414178; 
+2015-03-21 11:42:05.9000|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0499654; 
+2015-03-21 11:42:47.4387|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:08:16.4546623; number of tweets read: 100; 
+2015-03-21 11:42:47.5902|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0504010; 
+2015-03-21 11:42:47.6199|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-21 11:47:55.8699|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1018114; 
+2015-03-21 11:48:21.2101|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0851963; 
+2015-03-21 11:48:23.4008|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0173357; 
+2015-03-21 11:49:37.7500|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0485753; 
+2015-03-21 11:51:23.9494|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0352474; 
+2015-03-21 11:52:11.2459|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0366871; 
+2015-03-21 11:53:01.0834|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0321593; 
+2015-03-21 11:53:03.4144|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0296220; 
+2015-03-21 11:54:21.8382|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0520557; 
+2015-03-21 11:56:11.0764|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0426648; 
+2015-03-21 11:58:24.8477|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0188980; 
+2015-03-21 12:01:38.9091|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0590820; 
+2015-03-21 12:01:46.7470|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-21 12:01:47.6100|Info|TwitterStreamData|Request with code = W9LB created successfully in time: 00:00:00.8252260; 
+2015-03-21 12:01:48.0199|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3697077; 
+2015-03-21 12:01:48.0609|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0111373; 
+2015-03-21 12:03:54.9379|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0353169; 
+2015-03-21 12:12:11.3831|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0955428; 
+2015-03-21 12:13:40.6406|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0358911; 
+2015-03-21 12:13:45.4632|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0249784; 
+2015-03-21 12:13:48.8332|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0220431; 
+2015-03-21 12:13:52.2004|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0164451; 
+2015-03-21 12:13:55.8929|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0200133; 
+2015-03-21 12:13:59.6162|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0261205; 
+2015-03-21 12:14:03.0600|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0271194; 
+2015-03-21 12:14:13.3475|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0564176; 
+2015-03-21 12:18:55.6726|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0400654; 
+2015-03-21 12:19:27.7888|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0235564; 
+2015-03-21 12:21:07.9968|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0491729; 
+2015-03-21 12:21:08.9693|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0139984; 
+2015-03-21 12:21:46.4640|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0242486; 
+2015-03-21 12:24:53.6177|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0514901; 
+2015-03-21 12:28:07.0251|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0952138; 
+2015-03-21 12:31:44.1960|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0514137; 
+2015-03-21 15:34:39.1639|Error|TwitterStreamData|Exception while reading stream from Twitter. Number of tweets read: 0; Method name: ReadStream; Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2015-03-21 15:34:39.4341|Error|TwitterStreamData|Exception while reading stream from Twitter. Number of tweets read: 77; Method name: ReadStream; Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2015-03-21 15:34:40.6102|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0001128; 
+2015-03-21 15:34:40.7873|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 0 
+2015-03-21 15:34:41.2176|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.8804377; 
+2015-03-21 15:34:41.2796|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 77 
+2015-03-22 16:21:53.6978|Info|Service Host|service host opened 
+2015-03-22 16:22:27.4717|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-22 16:22:53.7539|Info|TwitterStreamData|Request with code = T6GA created successfully in time: 00:00:04.7153163; 
+2015-03-22 16:22:58.8611|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Timeout in InitStreamAndSaveData method waiting for task runing TwitterStreamData.QueueTweets method to signal that stream was established and reader has started.
+2015-03-22 16:23:52.7502|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:58.9018280; 
+2015-03-22 16:23:53.5436|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:00:00.7209012; number of tweets read: 10; 
+2015-03-22 16:26:14.1146|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-22 16:26:19.9353|Info|TwitterStreamData|Request with code = E1JJ created successfully in time: 00:00:05.7801601; 
+2015-03-22 16:26:20.3858|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.4082103; 
+2015-03-22 16:26:22.0780|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.4250415; 
+2015-03-22 16:26:38.6610|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2168852; 
+2015-03-22 16:27:12.5714|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0412000; 
+2015-03-22 16:27:23.3452|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0136888; 
+2015-03-22 16:28:15.9408|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0338487; 
+2015-03-22 16:29:04.0157|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0161212; 
+2015-03-22 16:29:52.2647|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0237514; 
+2015-03-22 16:31:10.4723|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0321718; 
+2015-03-22 16:31:11.0519|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:04:50.6357573; number of tweets read: 10; 
+2015-03-22 16:31:11.1845|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0295672; 
+2015-03-22 16:31:11.2185|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 10 
+2015-03-23 22:04:06.3120|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-23 22:04:07.1911|Info|TwitterStreamData|Request with code = COIO created successfully in time: 00:00:00.7338215; 
+2015-03-23 22:04:07.5514|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2973952; 
+2015-03-23 22:04:07.6904|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0917477; 
+2015-03-23 22:04:10.1240|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1966495; 
+2015-03-23 22:04:10.4249|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0460808; 
+2015-03-23 22:04:10.6513|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:00:03.0648300; number of tweets read: 10; 
+2015-03-23 22:04:10.8224|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0321832; 
+2015-03-23 22:04:10.8624|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 10 
+2015-03-25 10:29:19.7866|Info|Service Host|service host opened 
+2015-03-25 11:18:35.9089|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-25 11:18:42.3374|Info|TwitterStreamData|Request with code = JXZ7 created successfully in time: 00:00:00.8480725; 
+2015-03-25 11:18:42.7052|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2961813; 
+2015-03-25 11:18:43.7517|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.8888325; 
+2015-03-25 11:18:46.3574|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2182667; 
+2015-03-25 11:18:46.8791|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1599743; 
+2015-03-25 11:18:46.9990|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0234691; 
+2015-03-25 11:18:47.1020|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0190622; 
+2015-03-25 11:18:51.6110|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0248769; 
+2015-03-25 11:18:55.1300|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:00:12.3659622; number of tweets read: 20; 
+2015-03-25 11:18:55.3361|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0959265; 
+2015-03-25 11:18:55.3681|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 20 
+2015-03-25 11:21:29.8777|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-25 11:21:30.3575|Info|TwitterStreamData|Request with code = TR44 created successfully in time: 00:00:00.4332851; 
+2015-03-25 11:21:30.7393|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3352398; 
+2015-03-25 11:21:30.7923|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0159137; 
+2015-03-25 11:21:32.7277|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0326855; 
+2015-03-25 11:21:40.0758|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0318149; 
+2015-03-25 11:21:55.4245|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:00:24.6495329; number of tweets read: 20; 
+2015-03-25 11:21:55.5929|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0907624; 
+2015-03-25 11:21:55.6370|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 20 
+2015-03-26 16:18:52.1611|Info|Service Host|service host opened 
+2015-03-26 16:20:08.0542|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-26 16:20:38.8662|Error|TwitterStreamData|Exception when creating request; Method name: .ctor The remote name could not be resolved: 'stream.twitter.com'
+2015-03-26 16:20:38.9352|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData The remote name could not be resolved: 'stream.twitter.com'
+2015-03-26 16:21:35.9142|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-26 16:21:37.9515|Info|TwitterStreamData|Request with code = PQ4R created successfully in time: 00:00:01.9836928; 
+2015-03-26 16:21:38.4250|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3888048; 
+2015-03-26 16:21:39.6039|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.0919102; 
+2015-03-26 16:21:42.6036|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1732818; 
+2015-03-26 16:21:47.1755|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1647798; 
+2015-03-26 16:21:56.6428|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0491096; 
+2015-03-26 16:22:54.5004|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0680852; 
+2015-03-26 16:22:56.0135|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0585170; 
+2015-03-26 16:22:58.5307|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0534304; 
+2015-03-26 16:22:59.0352|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0296419; 
+2015-03-26 16:28:00.0434|Error|TwitterStreamData|Exception while reading stream from Twitter. Number of tweets read: 44; Method name: ReadStream; The operation has timed out.
+2015-03-26 16:28:00.3106|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.1253758; 
+2015-03-26 16:28:00.3527|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 44 
+2015-03-26 17:02:21.6282|Info|Service Host|service host opened 
+2015-03-26 17:20:14.9465|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-26 17:20:32.6897|Info|TwitterStreamData|Request with code = ONHM created successfully in time: 00:00:02.7299255; 
+2015-03-26 17:20:33.3155|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.5143745; 
+2015-03-26 17:20:35.7313|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.9864513; 
+2015-03-26 17:21:03.3835|Error|TwitterService|Exception when retrieving data from database; method name: HashtagsFrequencyData Could not find stored procedure 'GetHashtagFreq'.
+2015-03-26 17:27:09.4688|Info|Service Host|service host opened 
+2015-03-26 19:34:30.1134|Info|Service Host|service host opened 
+2015-03-26 19:36:45.9304|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-26 19:36:52.0368|Info|TwitterStreamData|Request with code = N1RX created successfully in time: 00:00:00.9980226; 
+2015-03-26 19:36:52.4286|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2996297; 
+2015-03-26 19:36:52.7434|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.2233561; 
+2015-03-26 19:36:55.1695|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1154261; 
+2015-03-26 19:36:55.4245|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0441171; 
+2015-03-26 19:36:58.3278|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0158185; 
+2015-03-26 19:36:59.8335|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0411721; 
+2015-03-26 19:37:01.9594|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0173015; 
+2015-03-26 19:37:06.4555|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0174167; 
+2015-03-26 19:37:12.2669|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0121151; 
+2015-03-26 19:37:18.2962|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0336948; 
+2015-03-26 19:37:31.5805|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0549670; 
+2015-03-26 19:37:31.9787|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0402935; 
+2015-03-26 19:37:33.2903|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0381855; 
+2015-03-26 19:37:36.3846|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0268982; 
+2015-03-26 19:37:42.6640|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0504484; 
+2015-03-26 19:37:44.2350|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0345899; 
+2015-03-26 19:37:49.3191|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0242514; 
+2015-03-26 19:37:54.4270|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0227085; 
+2015-03-26 19:37:54.5283|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0165090; 
+2015-03-26 19:38:01.5458|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0521703; 
+2015-03-26 19:38:04.4760|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0227256; 
+2015-03-26 19:38:10.4038|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0381712; 
+2015-03-26 19:38:11.3505|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0505516; 
+2015-03-26 19:38:12.5167|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0441462; 
+2015-03-26 19:38:16.6862|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0380903; 
+2015-03-26 19:38:29.2845|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0613000; 
+2015-03-26 19:38:32.2817|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0663741; 
+2015-03-26 19:38:38.0077|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0508350; 
+2015-03-26 19:38:38.8117|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0392905; 
+2015-03-26 19:38:41.8034|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0272979; 
+2015-03-26 19:38:46.3900|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0574439; 
+2015-03-26 19:38:46.5000|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0294292; 
+2015-03-26 19:38:49.1312|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0266661; 
+2015-03-26 19:38:54.9642|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0275984; 
+2015-03-26 19:38:56.5839|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0222889; 
+2015-03-26 19:38:59.3101|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0323600; 
+2015-03-26 19:39:05.6054|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0501131; 
+2015-03-26 19:39:05.7441|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0321473; 
+2015-03-26 19:39:18.4237|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0330066; 
+2015-03-26 19:39:20.7340|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0702205; 
+2015-03-26 19:39:21.3843|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:02:28.8949927; number of tweets read: 100; 
+2015-03-26 19:39:21.5353|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0478307; 
+2015-03-26 19:39:21.5641|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-27 10:04:23.3976|Info|Service Host|service host opened 
+2015-03-27 10:45:23.3811|Info|Service Host|service host opened 
+2015-03-27 10:46:17.4022|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 10:46:39.3822|Info|TwitterStreamData|Request with code = G25Y created successfully in time: 00:00:00.8178861; 
+2015-03-27 10:46:39.7437|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2786842; 
+2015-03-27 10:46:41.6047|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.4502001; 
+2015-03-27 10:46:44.0737|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1536259; 
+2015-03-27 10:46:57.0149|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0318109; 
+2015-03-27 10:47:34.4361|Error|TwitterService|Exception when retrieving data from database; method name: Sentiment Could not find file 'C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\negative-words.txt'.
+2015-03-27 10:50:14.5488|Info|Service Host|service host opened 
+2015-03-27 10:51:50.1878|Error|TwitterService|Exception when retrieving data from database; method name: HashtagsFrequencyData Could not find stored procedure 'GetHashtagFreq'.
+2015-03-27 11:14:56.6079|Info|Service Host|service host opened 
+2015-03-27 13:11:40.9823|Info|Service Host|service host opened 
+2015-03-27 13:15:32.8613|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 13:15:39.5990|Info|TwitterStreamData|Request with code = TP83 created successfully in time: 00:00:01.3693639; 
+2015-03-27 13:15:40.0173|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.0997296; 
+2015-03-27 13:15:40.6161|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.4528167; 
+2015-03-27 13:15:56.9862|Error|TwitterService|Exception when retrieving data from database; method name: HashtagsFrequencyData Could not find stored procedure 'GetHashtagFreq'.
+2015-03-27 13:17:43.8520|Info|Service Host|service host opened 
+2015-03-27 13:18:07.9307|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 13:18:26.3955|Info|TwitterStreamData|Request with code = X95Y created successfully in time: 00:00:00.8457040; 
+2015-03-27 13:18:26.7500|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2728136; 
+2015-03-27 13:18:27.5227|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.6307529; 
+2015-03-27 13:18:35.1104|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.3505856; 
+2015-03-27 13:18:35.5101|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1391148; 
+2015-03-27 13:18:35.7408|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0908730; 
+2015-03-27 13:18:35.8789|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0360405; 
+2015-03-27 13:18:37.5726|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0439848; 
+2015-03-27 13:18:43.6038|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0401612; 
+2015-03-27 13:18:44.2299|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0373348; 
+2015-03-27 13:18:46.3469|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0379249; 
+2015-03-27 13:18:50.1913|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0376729; 
+2015-03-27 13:18:52.6405|Error|TwitterService|Exception when retrieving data from database; method name: HashtagsFrequencyData Could not find stored procedure 'GetHashtagFreq'.
+2015-03-27 13:19:02.0304|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0555600; 
+2015-03-27 13:19:02.1765|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0773096; 
+2015-03-27 13:19:15.4679|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1404114; 
+2015-03-27 13:19:18.8437|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0711664; 
+2015-03-27 13:19:22.3521|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0338892; 
+2015-03-27 13:19:24.9289|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0309123; 
+2015-03-27 13:19:25.8994|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0351231; 
+2015-03-27 13:19:26.2093|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0368615; 
+2015-03-27 13:19:33.7543|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0488353; 
+2015-03-27 13:19:34.3797|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0420388; 
+2015-03-27 13:19:34.5178|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0349828; 
+2015-03-27 13:19:34.8120|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0448942; 
+2015-03-27 13:20:07.6389|Info|Service Host|service host opened 
+2015-03-27 13:20:22.4615|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 13:20:37.5758|Info|TwitterStreamData|Request with code = H4DC created successfully in time: 00:00:01.0873008; 
+2015-03-27 13:20:37.9938|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3497788; 
+2015-03-27 13:20:38.5702|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.5004330; 
+2015-03-27 13:20:50.1559|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1666146; 
+2015-03-27 13:20:59.2946|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0532126; 
+2015-03-27 13:20:59.3817|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0152722; 
+2015-03-27 13:21:01.9843|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0370548; 
+2015-03-27 13:21:02.0793|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0247606; 
+2015-03-27 13:21:02.5185|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0336771; 
+2015-03-27 13:21:09.0961|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0469971; 
+2015-03-27 13:21:10.7524|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0271981; 
+2015-03-27 13:21:12.1554|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0495908; 
+2015-03-27 13:21:20.3406|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0374944; 
+2015-03-27 13:21:20.6905|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0310913; 
+2015-03-27 13:21:21.0660|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0514718; 
+2015-03-27 13:21:25.0618|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0451377; 
+2015-03-27 13:21:26.9628|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0385379; 
+2015-03-27 13:21:27.3352|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0640859; 
+2015-03-27 13:21:43.3268|Error|TwitterService|Exception when retrieving data from database; method name: HashtagsFrequencyData Could not find stored procedure 'GetHashtagFreq'.
+2015-03-27 13:21:43.3688|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.4189576; 
+2015-03-27 13:21:51.9007|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1520551; 
+2015-03-27 13:21:52.1458|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0538033; 
+2015-03-27 13:21:52.3371|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0490868; 
+2015-03-27 13:21:54.7085|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1080588; 
+2015-03-27 13:21:54.9556|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0433382; 
+2015-03-27 13:22:03.0832|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0269433; 
+2015-03-27 13:22:09.6381|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0741502; 
+2015-03-27 13:24:25.7330|Info|Service Host|service host opened 
+2015-03-27 13:28:31.7983|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 13:28:58.0953|Info|TwitterStreamData|Request with code = P5E1 created successfully in time: 00:00:01.0460979; 
+2015-03-27 13:28:58.4856|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3274984; 
+2015-03-27 13:28:58.9679|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.3904897; 
+2015-03-27 13:29:02.6726|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1168293; 
+2015-03-27 13:29:02.7495|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0128501; 
+2015-03-27 13:29:07.7636|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0437043; 
+2015-03-27 13:29:08.6625|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0167861; 
+2015-03-27 13:29:10.9495|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0141039; 
+2015-03-27 13:29:15.3410|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0187925; 
+2015-03-27 13:29:17.8989|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0146433; 
+2015-03-27 13:29:24.2131|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0146485; 
+2015-03-27 13:29:26.8450|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0256809; 
+2015-03-27 13:29:27.3491|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0171173; 
+2015-03-27 13:29:31.5970|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0238597; 
+2015-03-27 13:29:36.1637|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0278681; 
+2015-03-27 13:29:36.7841|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0392529; 
+2015-03-27 13:29:37.5279|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0411082; 
+2015-03-27 13:29:43.8152|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0561068; 
+2015-03-27 13:29:47.9917|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0520135; 
+2015-03-27 13:29:49.2711|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0609186; 
+2015-03-27 13:29:59.0375|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0326502; 
+2015-03-27 13:29:59.1131|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0168545; 
+2015-03-27 13:29:59.1911|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0130480; 
+2015-03-27 13:29:59.3292|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0362081; 
+2015-03-27 13:29:59.4843|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0267836; 
+2015-03-27 13:29:59.5720|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0178825; 
+2015-03-27 13:30:01.5283|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0283544; 
+2015-03-27 13:30:08.1526|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0439187; 
+2015-03-27 13:30:10.0982|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0241106; 
+2015-03-27 13:30:11.9799|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0300884; 
+2015-03-27 13:30:14.4917|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0364254; 
+2015-03-27 13:30:14.9793|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0140988; 
+2015-03-27 13:30:20.5640|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0470033; 
+2015-03-27 13:30:21.2552|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0185428; 
+2015-03-27 13:30:22.3990|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0145760; 
+2015-03-27 13:30:24.8420|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0281766; 
+2015-03-27 13:30:28.0613|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0339867; 
+2015-03-27 13:30:29.9446|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0252977; 
+2015-03-27 13:30:32.3169|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0234537; 
+2015-03-27 13:30:33.4800|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0137738; 
+2015-03-27 13:30:35.2650|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0208252; 
+2015-03-27 13:30:37.2375|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0194032; 
+2015-03-27 13:30:43.6148|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0264215; 
+2015-03-27 13:30:52.9821|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0455414; 
+2015-03-27 13:30:56.4694|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0173557; 
+2015-03-27 13:30:59.7219|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0175199; 
+2015-03-27 13:31:01.7246|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0256940; 
+2015-03-27 13:31:03.2099|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0593728; 
+2015-03-27 13:31:04.7674|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0362138; 
+2015-03-27 13:31:06.5234|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0397501; 
+2015-03-27 13:31:12.9144|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0505846; 
+2015-03-27 13:31:14.0511|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0339245; 
+2015-03-27 13:31:15.8093|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0241807; 
+2015-03-27 13:31:21.7307|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0542321; 
+2015-03-27 13:31:22.3042|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0183512; 
+2015-03-27 13:31:23.1043|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0208001; 
+2015-03-27 13:31:23.5185|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0187720; 
+2015-03-27 13:31:24.2084|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:02:25.6660157; number of tweets read: 100; 
+2015-03-27 13:31:24.3513|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0512449; 
+2015-03-27 13:31:24.3793|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-27 13:42:16.9823|Info|Service Host|service host opened 
+2015-03-27 13:43:01.2379|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 13:43:08.7899|Error|TwitterStreamData|Request code generation failed. Method name: .ctor; One or more validation errors were detected during model generation:
+
+Media_Tweet_Target_Media_Tweet_Source: : The number of properties in the Dependent and Principal Roles in a relationship constraint must be identical.
+
+2015-03-27 13:43:08.8629|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData One or more validation errors were detected during model generation:
+
+Media_Tweet_Target_Media_Tweet_Source: : The number of properties in the Dependent and Principal Roles in a relationship constraint must be identical.
+
+2015-03-27 13:48:26.8189|Info|Service Host|service host opened 
+2015-03-27 13:48:47.6421|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 13:48:55.3106|Error|TwitterStreamData|Request code generation failed. Method name: .ctor; One or more validation errors were detected during model generation:
+
+Media_Tweet_Target_Media_Tweet_Source: : The number of properties in the Dependent and Principal Roles in a relationship constraint must be identical.
+
+2015-03-27 13:48:55.3872|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData One or more validation errors were detected during model generation:
+
+Media_Tweet_Target_Media_Tweet_Source: : The number of properties in the Dependent and Principal Roles in a relationship constraint must be identical.
+
+2015-03-27 14:35:27.9755|Info|Service Host|service host opened 
+2015-03-27 14:43:59.3104|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 14:44:06.3510|Error|TwitterStreamData|Request code generation failed. Method name: .ctor; One or more validation errors were detected during model generation:
+
+Media_Tweet_Target_Media_Tweet_Source: : The types of all properties in the Dependent Role of a referential constraint must be the same as the corresponding property types in the Principal Role. The type of property 'RequestId' on entity 'Media' does not match the type of property 'RequestId' on entity 'Tweet' in the referential constraint 'Media_Tweet'.
+
+2015-03-27 14:44:06.4250|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData One or more validation errors were detected during model generation:
+
+Media_Tweet_Target_Media_Tweet_Source: : The types of all properties in the Dependent Role of a referential constraint must be the same as the corresponding property types in the Principal Role. The type of property 'RequestId' on entity 'Media' does not match the type of property 'RequestId' on entity 'Tweet' in the referential constraint 'Media_Tweet'.
+
+2015-03-27 14:45:39.5562|Info|Service Host|service host opened 
+2015-03-27 14:46:48.5388|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 14:47:24.7307|Error|TwitterStreamData|Request code generation failed. Method name: .ctor; Cannot drop database "TwitterData" because it is currently in use.
+2015-03-27 14:47:24.8060|Error|TwitterService|Exception while processing request from client; method name: InitStreamAndSaveData Cannot drop database "TwitterData" because it is currently in use.
+2015-03-27 14:48:12.1811|Info|Service Host|service host opened 
+2015-03-27 14:48:47.3524|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 14:49:50.4224|Info|Service Host|service host opened 
+2015-03-27 14:50:35.8153|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 14:50:52.6778|Info|TwitterStreamData|Request with code = G9HK created successfully in time: 00:00:01.0421654; 
+2015-03-27 14:50:53.0558|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2882729; 
+2015-03-27 14:50:54.7405|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.3434287; 
+2015-03-27 14:50:59.7686|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1659373; 
+2015-03-27 14:51:36.5512|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1567020; 
+2015-03-27 14:51:38.0990|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0104291; 
+2015-03-27 14:51:50.5546|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0271519; 
+2015-03-27 14:52:10.7193|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0363740; 
+2015-03-27 14:52:56.4096|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0719219; 
+2015-03-27 14:53:00.8276|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0142807; 
+2015-03-27 14:53:05.9066|Error|TwitterService|Exception when retrieving data from database; method name: HashtagsFrequencyData Could not find stored procedure 'GetHashtagFreq'.
+2015-03-27 14:53:23.5074|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0232274; 
+2015-03-27 14:53:35.8746|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0543239; 
+2015-03-27 14:53:40.4535|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0348904; 
+2015-03-27 14:53:41.2652|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0229594; 
+2015-03-27 14:53:48.4578|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0185987; 
+2015-03-27 14:53:59.0611|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0179629; 
+2015-03-27 14:53:59.6347|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0168317; 
+2015-03-27 14:54:21.7954|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0311096; 
+2015-03-27 14:54:34.4137|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0126044; 
+2015-03-27 14:56:02.5652|Info|Service Host|service host opened 
+2015-03-27 14:56:41.5923|Info|Service Host|service host opened 
+2015-03-27 14:57:38.0079|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 14:58:28.5402|Info|TwitterStreamData|Request with code = QYC5 created successfully in time: 00:00:00.8802296; 
+2015-03-27 14:58:28.9500|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2929820; 
+2015-03-27 14:58:29.9620|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.7308127; 
+2015-03-27 14:58:32.3130|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.3508479; 
+2015-03-27 14:58:32.4101|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0180034; 
+2015-03-27 14:58:32.4901|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0161372; 
+2015-03-27 14:58:32.8924|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0596020; 
+2015-03-27 14:58:33.0215|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0215072; 
+2015-03-27 14:58:33.9959|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0133992; 
+2015-03-27 14:58:37.1608|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0335214; 
+2015-03-27 14:58:37.3285|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0107461; 
+2015-03-27 14:58:37.3891|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0084215; 
+2015-03-27 14:58:40.7979|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0270162; 
+2015-03-27 14:58:42.6219|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0146125; 
+2015-03-27 14:58:42.9380|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0159850; 
+2015-03-27 14:58:46.2574|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 14:58:47.2294|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0148993; 
+2015-03-27 14:58:47.3266|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0262471; 
+2015-03-27 14:58:47.7885|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0247731; 
+2015-03-27 14:58:47.8053|Info|TwitterStreamData|Request with code = QUQZ created successfully in time: 00:00:00.5931631; 
+2015-03-27 14:58:48.0915|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0137630; 
+2015-03-27 14:58:48.1679|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.2462626; 
+2015-03-27 14:58:48.2216|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.0176208; 
+2015-03-27 14:58:49.1443|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0093264; 
+2015-03-27 14:58:49.1813|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0444860; 
+2015-03-27 14:58:49.8672|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0132777; 
+2015-03-27 14:58:50.3716|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:50.4756|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0173021; 
+2015-03-27 14:58:50.8349|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:50.8919|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0135081; 
+2015-03-27 14:58:51.1706|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:51.7680|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0306785; 
+2015-03-27 14:58:52.0748|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:53.5342|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0184162; 
+2015-03-27 14:58:53.8139|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:56.2883|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0291122; 
+2015-03-27 14:58:56.6256|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:56.8897|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0163145; 
+2015-03-27 14:58:57.2470|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:57.6400|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0122645; 
+2015-03-27 14:58:57.9722|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:58:59.2145|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0294555; 
+2015-03-27 14:58:59.5295|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:00.0016|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0137362; 
+2015-03-27 14:59:00.3025|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:03.0319|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0155818; 
+2015-03-27 14:59:03.3876|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:04.3916|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0176681; 
+2015-03-27 14:59:04.7043|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:06.8025|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0198924; 
+2015-03-27 14:59:07.2503|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:12.5660|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0636674; 
+2015-03-27 14:59:12.9386|Error|TwitterService|Exception when retrieving data from database; method name: HashtagsFrequencyData Could not find stored procedure 'GetHashtagFreq'.
+2015-03-27 14:59:23.9720|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0392780; 
+2015-03-27 14:59:24.3983|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:24.9176|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.3016835; 
+2015-03-27 14:59:25.1203|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0645045; 
+2015-03-27 14:59:25.4535|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1327146; 
+2015-03-27 14:59:25.8753|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:26.0339|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0616205; 
+2015-03-27 14:59:27.1271|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:27.3042|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0404178; 
+2015-03-27 14:59:27.7470|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2107517; 
+2015-03-27 14:59:28.0082|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0973890; 
+2015-03-27 14:59:28.4651|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:28.5742|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0234486; 
+2015-03-27 14:59:29.1972|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:29.2797|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0299361; 
+2015-03-27 14:59:29.8722|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:30.4401|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:31.1794|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:31.3475|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0507791; 
+2015-03-27 14:59:31.9439|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:32.1521|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1098549; 
+2015-03-27 14:59:32.3162|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0370799; 
+2015-03-27 14:59:32.8026|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:35.7345|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0550326; 
+2015-03-27 14:59:35.8916|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0398966; 
+2015-03-27 14:59:36.2214|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:36.7528|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0950251; 
+2015-03-27 14:59:37.3427|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:38.2411|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:38.3081|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1702199; 
+2015-03-27 14:59:39.2223|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:40.0270|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:01:11.0251882; number of tweets read: 100; 
+2015-03-27 14:59:40.6644|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:41.4847|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:41.7679|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0418478; 
+2015-03-27 14:59:42.2432|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:42.4854|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0421648; 
+2015-03-27 14:59:42.6657|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0355769; 
+2015-03-27 14:59:42.7447|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0192840; 
+2015-03-27 14:59:43.0849|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: AddTweetHashtagsToDbAndSave; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:43.7705|Error|TwitterStreamData|Exception while saving data to Db; Request ID = 2; Method name: ParseAndInsertTweetsToDB; An error occurred while updating the entries. See the inner exception for details.
+2015-03-27 14:59:44.6917|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0368359; 
+2015-03-27 14:59:45.4079|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0447956; 
+2015-03-27 14:59:49.3382|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0347125; 
+2015-03-27 14:59:50.0007|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0325413; 
+2015-03-27 14:59:50.3282|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0391269; 
+2015-03-27 14:59:50.5232|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0477309; 
+2015-03-27 14:59:50.7333|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0529355; 
+2015-03-27 14:59:50.8722|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0251227; 
+2015-03-27 14:59:51.2124|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0283562; 
+2015-03-27 14:59:51.9974|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0410495; 
+2015-03-27 14:59:52.6820|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1525449; 
+2015-03-27 14:59:55.3524|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0542463; 
+2015-03-27 14:59:55.5512|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0492687; 
+2015-03-27 14:59:56.2038|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:01:08.0036451; number of tweets read: 100; 
+2015-03-27 14:59:56.3248|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0167154; 
+2015-03-27 14:59:56.3611|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-27 15:02:22.8710|Info|Service Host|service host opened 
+2015-03-27 15:02:57.7950|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 15:03:17.2191|Info|TwitterStreamData|Request with code = 3MD9 created successfully in time: 00:00:00.9738258; 
+2015-03-27 15:03:17.6304|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3214762; 
+2015-03-27 15:03:18.3575|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.6183372; 
+2015-03-27 15:03:41.5233|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2268479; 
+2015-03-27 15:03:53.2234|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0224194; 
+2015-03-27 15:04:00.2885|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0190183; 
+2015-03-27 15:04:02.9911|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0110569; 
+2015-03-27 15:04:05.9139|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0120610; 
+2015-03-27 15:04:16.2692|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0176231; 
+2015-03-27 15:04:16.4788|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0158504; 
+2015-03-27 15:04:47.0342|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0496176; 
+2015-03-27 15:04:57.2065|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0196284; 
+2015-03-27 15:05:01.0594|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0114589; 
+2015-03-27 15:05:01.6821|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0086781; 
+2015-03-27 15:05:02.4605|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0101851; 
+2015-03-27 15:05:33.2523|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0216166; 
+2015-03-27 15:05:56.0175|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0288420; 
+2015-03-27 15:06:01.9850|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0303227; 
+2015-03-27 15:06:10.2207|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0454074; 
+2015-03-27 15:06:10.3208|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0183706; 
+2015-03-27 15:06:10.4433|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0172798; 
+2015-03-27 15:06:10.5554|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0238198; 
+2015-03-27 15:07:41.7807|Info|Service Host|service host opened 
+2015-03-27 15:16:16.6028|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 15:16:23.2525|Info|TwitterStreamData|Request with code = VP78 created successfully in time: 00:00:01.0843627; 
+2015-03-27 15:16:23.6780|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3496186; 
+2015-03-27 15:16:24.9786|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:01.1238756; 
+2015-03-27 15:17:00.2143|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.3639643; 
+2015-03-27 15:17:16.0390|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0503440; 
+2015-03-27 15:17:25.0004|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0910292; 
+2015-03-27 15:17:33.7999|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1800789; 
+2015-03-27 15:17:34.2482|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0358717; 
+2015-03-27 15:17:54.1836|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0325002; 
+2015-03-27 15:18:18.5393|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0561171; 
+2015-03-27 15:18:34.1889|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0375691; 
+2015-03-27 15:19:00.7093|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0529344; 
+2015-03-27 15:19:16.0699|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0375948; 
+2015-03-27 15:19:37.1514|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0236567; 
+2015-03-27 15:19:41.5628|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0270567; 
+2015-03-27 15:19:47.3877|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0191324; 
+2015-03-27 15:20:05.2169|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0535159; 
+2015-03-27 15:20:06.2890|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0188940; 
+2015-03-27 15:20:09.1551|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0775929; 
+2015-03-27 15:20:09.4463|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0355091; 
+2015-03-27 15:20:42.1843|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0699331; 
+2015-03-27 15:20:46.2929|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0260994; 
+2015-03-27 15:21:12.3982|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0909528; 
+2015-03-27 15:21:36.7771|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0392979; 
+2015-03-27 15:22:18.0792|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.1063882; 
+2015-03-27 15:22:20.4151|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0290900; 
+2015-03-27 15:22:41.4241|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0403858; 
+2015-03-27 15:23:00.8860|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0684655; 
+2015-03-27 15:23:12.9455|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0261900; 
+2015-03-27 15:23:27.1129|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0396520; 
+2015-03-27 15:23:39.7095|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0575477; 
+2015-03-27 15:23:45.7440|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:07:21.9934503; number of tweets read: 100; 
+2015-03-27 15:23:45.8872|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0518328; 
+2015-03-27 15:23:45.9182|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-27 15:53:30.9893|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-27 15:53:31.7573|Info|TwitterStreamData|Request with code = IL3A created successfully in time: 00:00:00.6618693; 
+2015-03-27 15:53:32.1720|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3630982; 
+2015-03-27 15:53:32.4607|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.2326330; 
+2015-03-27 15:53:45.5088|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0983150; 
+2015-03-27 15:54:25.6548|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0677015; 
+2015-03-27 15:54:25.7448|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0299470; 
+2015-03-27 15:54:26.5286|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0129881; 
+2015-03-27 15:54:27.9766|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0130890; 
+2015-03-27 15:54:34.2467|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0093885; 
+2015-03-27 15:54:34.3769|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0099314; 
+2015-03-27 15:54:36.4659|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0164097; 
+2015-03-27 15:54:36.6524|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0111088; 
+2015-03-27 15:55:28.1605|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2335732; 
+2015-03-27 15:55:31.9434|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0300490; 
+2015-03-27 15:55:49.3308|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0552071; 
+2015-03-27 15:56:18.9624|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0366956; 
+2015-03-27 15:56:33.1497|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0423062; 
+2015-03-27 15:56:39.8563|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0403465; 
+2015-03-27 15:57:04.5759|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0352559; 
+2015-03-27 15:57:07.6961|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0238797; 
+2015-03-27 15:57:33.0593|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0205487; 
+2015-03-27 15:57:41.8061|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0483148; 
+2015-03-27 15:57:56.1535|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0538962; 
+2015-03-27 15:57:59.5944|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0187138; 
+2015-03-27 15:58:01.0467|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0210909; 
+2015-03-27 15:58:24.5776|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0427549; 
+2015-03-27 15:58:24.6637|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0167604; 
+2015-03-27 15:58:25.4102|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0216440; 
+2015-03-27 15:59:07.2120|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0516457; 
+2015-03-27 15:59:19.3868|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0424351; 
+2015-03-27 15:59:25.6222|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0323748; 
+2015-03-27 15:59:27.7592|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0182617; 
+2015-03-27 15:59:55.0185|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0922061; 
+2015-03-27 15:59:56.3868|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0238557; 
+2015-03-27 16:00:10.6125|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.2743325; 
+2015-03-27 16:00:11.8804|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0226344; 
+2015-03-27 16:00:12.2251|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0269649; 
+2015-03-27 16:00:13.9941|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0368000; 
+2015-03-27 16:00:18.9241|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0157472; 
+2015-03-27 16:00:43.0794|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0442545; 
+2015-03-27 16:01:11.4444|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0754052; 
+2015-03-27 16:01:13.4816|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0304829; 
+2015-03-27 16:01:28.2017|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0339439; 
+2015-03-27 16:01:28.5186|Info|TwitterStreamData|Data saved in database successfully in method: AddTweetHashtagsToDbAndSave, in time: 00:00:00.0245092; 
+2015-03-27 16:01:44.3639|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:08:12.1534395; number of tweets read: 100; 
+2015-03-27 16:01:44.5019|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.0406259; 
+2015-03-27 16:01:44.5355|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 100 
+2015-03-28 11:32:36.8918|Info|Service Host|service host opened 
+2015-03-29 09:03:22.4643|Info|TwitterService|============= Request received from client. Process of getting tweets from Twitter started. ==================  
+2015-03-29 09:03:33.1296|Info|TwitterStreamData|Request with code = VCTL created successfully in time: 00:00:00.7269679; 
+2015-03-29 09:03:33.4952|Info|TwitterStreamData|Response stream initialized successfully in time: 00:00:00.3271387; 
+2015-03-29 09:03:34.0470|Info|TwitterStreamData|Data saved in database successfully in method: SaveRequestData, in time: 00:00:00.3731602; 
+2015-03-29 09:04:39.7933|Info|TwitterStreamData|Reading of stream and queueing tweets successfully ended in time: 00:01:06.2675502; number of tweets read: 10; 
+2015-03-29 09:04:40.2456|Info|TwitterStreamData|Data saved in database successfully in method: ParseAndInsertTweetsToDB, in time: 00:00:00.3423437; 
+2015-03-29 09:04:40.2716|Info|TwitterStreamData|All tweets from the queue were processed and saved in database with 0 parsing errors. Number of tweets processed: 10 

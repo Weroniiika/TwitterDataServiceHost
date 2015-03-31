@@ -1,0 +1,17 @@
+c:\users\weronika\documents\visual studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\TwitterWCFService.dll
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\TwitterWCFService.pdb
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\NLog.config
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\NLog.dll
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\NLog.xml
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Weronika\Documents\Visual Studio 2013\Projects\ServiceHost\ServiceHost\bin\Debug\EntityFramework.SqlServer.xml
